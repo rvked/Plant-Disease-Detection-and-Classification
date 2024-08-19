@@ -8,7 +8,6 @@ A web application for detecting plant diseases using deep learning techniques. T
 - **Frontend:** Built with React, providing a user-friendly interface for image uploads and displaying results.
 - **Backend:** FastAPI for testing and validating the backend API.
 - **Deployment:** Model deployed on Google Cloud Platform and accessed through Google Cloud Functions.
-- **Responsive Design:** Ensures usability across different devices.
 
 ## Technologies Used
 
