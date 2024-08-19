@@ -1,0 +1,11 @@
+tensorflow<2.11
+numpy
+scipy
+notebook
+tensorflow-addons
+tensorflow-model-optimization
+pandas
+pillow
+fastapi
+uvicorn
+
