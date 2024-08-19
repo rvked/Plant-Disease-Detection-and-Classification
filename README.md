@@ -13,7 +13,7 @@ A web application for detecting plant diseases using deep learning techniques. T
 ## Technologies Used
 
 - **Frontend:** React
-- **Backend:** FastAPI
+- **Backend:** FastAPI(Testing)
 - **Model:** TensorFlow
 - **Cloud Platform:** Google Cloud Platform (GCP)
 - **Serverless Functions:** Google Cloud Functions (GCF)
